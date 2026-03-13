@@ -1,0 +1,9 @@
+from .default import start  # noqa
+from .default import help  # noqa
+from .custom import inline_kb  # noqa
+from .custom import weather  # noqa
+from .custom import location  # noqa
+from .talk import welcome  # noqa
+from .talk import gratitude  # noqa
+from .talk import compliment  # noqa
+from .default import unclear  # noqa
